@@ -9,12 +9,15 @@ The data source of this analysis is pulled from the National Transportation Safe
 This project utilizes descriptive analysis. It provides an overview of the accident occurence to determine which aircrafts have the lowest risk providing higher safety assurance hence best suited for the company operations. It considers accident occurrence by model, by flight phase and severity per model. There is use of barcharts to visualize these factors.
 ## Results
 The SportII, THE BLUE MAX, 980(695), VELOCITY XLFG, EMB 720 aircraft models have the lowest accident occurrence and hence would be suitable for consideration for purchase and operations of the company.
+
 ![Accident Occurence by Model](Images/Model.png)
 
 Based on accident occurrence by Flight Phase per model, aircraft models with the lowest number of accidents are more suitable. They include Zenith 701, Zenith Tri-Z, Zin 526F, Zodiac(CH-601-HDS), Zodiac 601 XL, Sportstar.
+
 ![Accident Occurence by Flight Phase per Model](Images/Flight.phase.png)
 
 Based on severity of the accident then the most suitable models would be AVID FLYER IV, P2012 TRAVELLER, P2010, P2006T and PA-205 as the have no injured counts and high uninjured counts. 
+
 ![Accident Severity by Model](Images/Severity count.png)
 
 
@@ -37,11 +40,13 @@ Further analysis could give more insights on other ways to best select aircrafts
 
 3.Aircraft maintenance influence on aviation accident rates. This analyzes how the level of maintenance of the aircraft impacts accident rates.
 ## For More Information
-See the full analysis [here](Aviation-Accidents-Analysis.ipynb)  or review the presentation [here](Aircraft-Accidents-Analysis-/_Project.Presentation .pdf)
+
+See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the presentation [Presentation](_Project.Presentation .pdf)
 
 ## Dashboard
 
 ![Tableau Dashboard](Images/Aircraft Accident Analysis Dashboard .png)
+
 
 View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/maureen.wambugu/viz/Aircraft_Accidents_Analysis_MW/AircraftAccidentAnalysisDashboard?publish=yes) for detailed insights.
 
