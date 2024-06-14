@@ -41,7 +41,7 @@ Further analysis could give more insights on other ways to best select aircrafts
 3.Aircraft maintenance influence on aviation accident rates. This analyzes how the level of maintenance of the aircraft impacts accident rates.
 ## For More Information
 
-See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the presentation [Presentation](_Project.Presentation .pdf)
+See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Project.Presentation .pdf)
 
 ## Dashboard
 
