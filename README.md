@@ -18,7 +18,7 @@ Based on accident occurrence by Flight Phase per model, aircraft models with the
 
 Based on severity of the accident then the most suitable models would be AVID FLYER IV, P2012 TRAVELLER, P2010, P2006T and PA-205 as the have no injured counts and high uninjured counts. 
 
-![Accident Severity by Model](Images/Severity count.png)
+![Accident Severity by Model](Images/Severity.count.png)
 
 
 ## Conclusion
@@ -39,13 +39,14 @@ Further analysis could give more insights on other ways to best select aircrafts
 2.Model need of frequency of accident occurrence by location. This could predict aircraft accident prone locations.
 
 3.Aircraft maintenance influence on aviation accident rates. This analyzes how the level of maintenance of the aircraft impacts accident rates.
+
 ## For More Information
 
-See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](./docs/Project.Presentation .pdf)
+See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Project.Presentation.pdf)
 
 ## Dashboard
 
-![Tableau Dashboard](./Images/Aircraft Accident Analysis Dashboard .png)
+![Tableau Dashboard](Images/Aircraft.Accident.Analysis.Dashboard.png)
 
 
 View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/maureen.wambugu/viz/Aircraft_Accidents_Analysis_MW/AircraftAccidentAnalysisDashboard?publish=yes) for detailed insights.
