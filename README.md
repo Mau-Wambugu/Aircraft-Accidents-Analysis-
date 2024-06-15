@@ -46,8 +46,10 @@ See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or 
 
 ## Dashboard
 
+View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/maureen.wambugu/viz/Aircraft_Accidents_Analysis_MW/AircraftAccidentAnalysisDashboard?publish=yes) for detailed insights.
+
 ![Tableau Dashboard](Images/Aircraft.Accident.Analysis.Dashboard.png)
 
 
-View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/maureen.wambugu/viz/Aircraft_Accidents_Analysis_MW/AircraftAccidentAnalysisDashboard?publish=yes) for detailed insights.
+
 
