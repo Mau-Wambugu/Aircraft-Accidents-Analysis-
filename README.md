@@ -42,7 +42,7 @@ Further analysis could give more insights on other ways to best select aircrafts
 
 ## For More Information
 
-See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Project.Presentation.pdf)
+See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Aircraft.Accidents.Presentation.pdf)
 
 ## Dashboard
 
