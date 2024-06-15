@@ -10,11 +10,11 @@ This project utilizes descriptive analysis. It provides an overview of the accid
 ## Results
 (MILLER ROGER, THATCHER CX4), (AVIAT AIRCRAFT INC, HUSKY), (PIPER, J3C-75), (WACO, YMF-3), (DIAMOND AICRAFT INDUSTRIES INC, DA 20-C1) aircraft make_models have the lowest accident occurrence and hence would be suitable for consideration for purchase and operations of the company.
 
-![Accident Occurence by Model](Images/Make_model Occurence.png)
+![Accident Occurence by Model](Images/Make_model_Occurence.png)
 
 Based on accident occurrence by Flight Phase per model, aircraft make_models with the lowest number of accidents are more suitable. They include (YAMOKOSKI, GLASTAR),( YOUKEY, LANCAIR 235), (YOUNG, ZODIAC 601XL),(ZAVERTON ELMER, PJ260 SR AERO SPORT), (ZENAIR, CH 2000).
 
-![Accident Occurence by Flight Phase per Model](Images/Make_Model_by Flight.Phase.png)
+![Accident Occurence by Flight Phase per Model](Images/Make_Model_by_Flight.Phase.png)
 
 Based on severity of the accident then the most suitable make_models would be (GULFSTREAM, GULFSTREAM G150), (GULFSTREAM, GULFSTREAM GVI), (GULFSTREAM, GULFSTREAM150), (GULFSTREAM, GULFSTREAM200), (ZWICKER MURRAY R, GLASTAR') as the have no injured counts and high uninjured counts. 
 
@@ -43,13 +43,13 @@ Further analysis could give more insights on other ways to best select aircrafts
 
 ## For More Information
 
-See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Aircraft.Accidents.Project.Presentation .pdf)
+See the full analysis [Jupyter Notebook](Aviation-Accidents-Analysis.ipynb)  or review the  [Presentation](Aircraft.Accidents.Project.Presentation.pdf)
 
 ## Dashboard
 
 View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/maureen.wambugu/viz/Aircraft_Accidents_Analysis_2024_MW/AircraftAccidentAnalysis?publish=yes) for detailed insights.
 
-![Tableau Dashboard](Images/Aircraft.Aircraft Accident Analysis.dashboard.png)
+![Tableau Dashboard](Images/Aircraft.Accident.Analysis.dashboard.png)
 
 
 
